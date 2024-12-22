@@ -1,6 +1,6 @@
 {
   "name": "reactcicd",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://alirezamehrabi.github.io/reactcicd/",
   "private": true,
   "dependencies": {
