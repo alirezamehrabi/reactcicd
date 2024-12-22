@@ -33,7 +33,7 @@ jobs:
         run: npm test -- --watchAll=false
 
       - name: Deploy with gh-pages
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/testbranch'
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
