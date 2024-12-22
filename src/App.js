@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h6>test for gh-pages</h6>
+        <h6>second change for confirm</h6>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
