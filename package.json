@@ -1,7 +1,7 @@
 {
   "name": "reactcicd",
   "version": "0.1.3",
-  "homepage": "https://alirezamehrabi.github.io/reactcicd",
+  "homepage": "https://alirezamehrabi.github.io/reactcicd/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
